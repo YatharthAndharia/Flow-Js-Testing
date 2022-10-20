@@ -1,0 +1,22 @@
+{
+  "name": "flowjstesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "@onflow/flow-js-testing": "^0.3.0-alpha.16",
+    "babel-jest": "^29.2.1",
+    "jest": "^29.2.1"
+  }
+}
